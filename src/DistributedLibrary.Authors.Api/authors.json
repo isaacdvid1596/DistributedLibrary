@@ -1,0 +1,42 @@
+[
+    {
+        "id": 6,
+        "first_name": "Ahmad",
+        "last_name": "Godden",
+        "email": "agodden0@soup.io",
+        "gender": "Genderqueer",
+        "ip_address": "78.124.209.111"
+    },
+    {
+        "id": 7,
+        "first_name": "Clerc",
+        "last_name": "Durham",
+        "email": "cdurham1@sphinn.com",
+        "gender": "Non-binary",
+        "ip_address": "203.47.106.88"
+    },
+    {
+        "id": 8,
+        "first_name": "Denis",
+        "last_name": "Dundon",
+        "email": "ddundon2@4shared.com",
+        "gender": "Genderqueer",
+        "ip_address": "126.247.221.46"
+    },
+    {
+        "id": 9,
+        "first_name": "Toddy",
+        "last_name": "Vivien",
+        "email": "tvivien3@unicef.org",
+        "gender": "Polygender",
+        "ip_address": "137.149.217.154"
+    },
+    {
+        "id": 10,
+        "first_name": "Blane",
+        "last_name": "MacCumiskey",
+        "email": "bmaccumiskey4@psu.edu",
+        "gender": "Male",
+        "ip_address": "165.234.21.225"
+    }
+]
